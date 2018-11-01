@@ -4,7 +4,6 @@
     "max_sleep": 10,
     "timeout": false,
     "root_urls": [
-       "https://bestbuy.com",
         "https://amazon.com",
         "https://thebesthoodie.com"
     ],
